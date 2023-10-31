@@ -7,7 +7,7 @@
 <br>
 
 <br>
-- 🔭 I’m currently working on **some cool projects**
+- 🔭 I’m currently working as a frontend developer in subspace.
 
 - 🌱 I’m currently learning **Machine learning and deep learning**
 <br>
